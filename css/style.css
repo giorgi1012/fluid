@@ -1,0 +1,55 @@
+.image {
+	float: right;
+	width: 600px;
+}
+.text1 {
+	float: left;
+	width: 500px;
+}
+.clear {
+	clear: both;
+}
+.text2 {
+	display: inline-block;
+}
+.text2::before {
+	content: 'geolab';
+	display: inline-block;
+	color: red;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+.text2::after {
+	content: 'lesson 6';
+	display: inline-block;
+	color: green;
+}
+.box {
+	width: 1170px;
+	margin: 0 auto;
+}
+.left-wraper {
+	float: left;
+	background-color: red;
+	width: 500px;
+}
+.right-wraper {
+	float: right;
+	background-color: green; 
+	width: 500px;
+}
+.clear {
+	clear: both;
+}
+.image1 {
+	float: left;
+	width: 200px;
+}
+.image2 {
+	float: right;
+	width: 200px;
+}
+.texti2 {
+	width: 150px;
+	float: right;
+}
