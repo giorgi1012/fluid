@@ -1,0 +1,43 @@
+/* .text {
+    float: left;
+    width: 300px;
+}
+.image {
+    width: 300px;
+}
+.clear {
+    clear: both;
+}
+.test1::before{
+    content: 'geolab';
+    display: inline-block;
+    margin: 0 10px;
+
+}
+.text1 {
+    display: inline-block;
+} */
+.image {
+    width: 500px;
+}
+.left-wraper {
+    float: left;
+    background-color: blue;
+    width: 500px;
+}
+.right-wraper {
+    float: right;
+    background-color: rgb(223, 238, 8);
+    width: 500px;
+}
+.image1 {
+    float: left;
+    width: 300px;
+}
+.image2 {
+    float: left;
+    width: 300px;
+}
+.clear {
+    clear: both;
+}
